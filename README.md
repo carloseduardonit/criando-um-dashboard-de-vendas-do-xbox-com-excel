@@ -1,11 +1,15 @@
 # Criando um Dashboard de Vendas do Xbox com Excel
 
+Em apresentação do desafio, o objetivo é criar um dashboard de vendas utilizando o Excel, com foco na organização e visualização de dados. O desafio envolve transformar dados brutos em informações visuais claras e úteis, permitindo uma análise eficaz do desempenho de vendas e a tomada de decisões baseadas em dados.
+
 ## Entendendo o Desafio
 O objetivo deste desafio é criar um dashboard de vendas, com foco na organização e visualização de dados. O objetivo é transformar dados brutos em informações visuais claras e úteis, permitindo uma análise eficaz do desempenho de vendas e a tomada de decisões baseadas em dados.
 
 ## O que fazer?
 - Criar um dashboard de vendas no Excel.
-
+    - Utilizar a base de dados fornecida para criar visualizações que mostrem o desempenho de vendas do Xbox.
+    - Incluir gráficos
+    - Tabelas dinâmicas
  
 
 ## Orientações para Entrega
@@ -23,3 +27,4 @@ O objetivo deste desafio é criar um dashboard de vendas, com foco na organizaç
  
 
 Bons estudos 😉
+![https://assets.dio.me/VTgUqMiPAIgvsFdSvgSnVAB5lrqnNxY_N8h8LknnQys/f:webp/q:80/w:120/L2Fzc2V0cy9kaW9tZS9sb2dvLWZ1bGwuc3Zn]
