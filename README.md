@@ -12,7 +12,7 @@ O objetivo deste desafio é criar um dashboard de vendas, com foco na organizaç
     - Utilizar a base de dados fornecida para criar visualizações que mostrem o desempenho de vendas do Xbox.
     - Incluir gráficos
     - Tabelas dinâmicas
- 
+ ![meu](image.png)
 
 ## Orientações para Entrega
 - Organizar o repositório do GitHub com:
