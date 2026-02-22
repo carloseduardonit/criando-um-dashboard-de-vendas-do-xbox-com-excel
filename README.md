@@ -11,7 +11,7 @@ O objetivo deste desafio é criar um dashboard de vendas, com foco na organizaç
 ## Orientações para Entrega
 - Organizar o repositório do GitHub com:
     - README.md explicando o projeto, os dados utilizados e instruções para reprodução.
-    - O arquivo Excel (.xlsx) com o dashboard concluído.
+    - O [arquivo Excel (.xlsx)](assets/DashBoard.xlsx) com o dashboard concluído.
 - Compartilhar o link do repositório GitHub como entrega do desafio.
  
 
